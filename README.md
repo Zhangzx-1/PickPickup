@@ -1,4 +1,4 @@
-# PickPickup
+# PickPickup · 跨平台取件码聚合小程序
 This project aims to develop a lightweight, cross-platform one-stop aggregation management tool for express and food delivery pickup codes (iOS Mini Program).
 
 
